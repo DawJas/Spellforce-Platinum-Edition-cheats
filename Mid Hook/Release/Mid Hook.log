@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+C:\Users\djast\Desktop\Mid Hook\Mid Hook\Hooks.h(26,30): warning C4101: "dwRelAddr": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  0 of 10 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Mid Hook.vcxproj -> C:\Users\djast\Desktop\Mid Hook\Release\Mid Hook.dll

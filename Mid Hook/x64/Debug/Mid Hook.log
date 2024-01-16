@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+C:\Users\Acer\source\repos\Mid Hook\Mid Hook\Hooks.h(9,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Acer\source\repos\Mid Hook\Mid Hook\Hooks.h(18,45): warning C4311: "typ rzutowania": obcięcie wskaźnika z "BYTE *" do "DWORD"
+C:\Users\Acer\source\repos\Mid Hook\Mid Hook\Hooks.h(18,45): warning C4302: "typ rzutowania": obcięcie z "BYTE *" do "DWORD"
+C:\Users\Acer\source\repos\Mid Hook\Mid Hook\Hooks.h(47,39): warning C4311: "typ rzutowania": obcięcie wskaźnika z "LPVOID" do "DWORD"
+C:\Users\Acer\source\repos\Mid Hook\Mid Hook\Hooks.h(47,39): warning C4302: "typ rzutowania": obcięcie z "LPVOID" do "DWORD"
+C:\Users\Acer\source\repos\Mid Hook\Mid Hook\Hooks.h(55,67): warning C4312: "typ rzutowania": konwersja z "unsigned long" na "char *" jest większej wielkości
